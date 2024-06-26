@@ -1,0 +1,59 @@
+prioritization HSE risks in the Sour Gas Refinery
+
+
+
+---------------
+SAFETY
+
+Potential for catastrophic event (e.g., explosions, fires)
+Presence and handling of highly toxic and flammable materials
+Reliability and integrity of critical equipment (e.g., pressure vessels, piping)
+Effectiveness of process control and monitoring systems
+Adequacy of safety instrumentation systems(e.g., alarms, shutdowns)
+
+
+---------------
+HEALTH
+
+Exposure to highly toxic gases (e.g., hydrogen sulfide, sulfur dioxide) 
+Occupational exposure to hazardous chemicals and materials 
+Noise pollution and hearing conservation programs 
+outdoor air quality and ventilation systems 
+Exposure to extreme temperatures and weather conditions 
+
+
+---------------
+ENVIRONMENT
+
+Air emissions of toxic and greenhouse gases 
+Management of hazardous waste and byproducts 
+Wastewater treatment and effluent management 
+Potential for soil and groundwater contamination 
+Impact on local biodiversity and ecosystems 
+
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+
+( 01 ) -  U100-1 PH9 
+( 03A ) -  U101 / 104 / 105 (GAS TRAIN 1 ) 
+( 05 ) -  U102 (MEG REGEN. & INJECT. & STORAGE) 
+( 06 ) -  U100-1 / 103-1 (COND. STABIL. PH9) 
+( 08 ) -  U106 (EXPORT GAS COMPRESS & METERING) 
+( 09 ) -  U107-1 / 116-1 (NGL FRACT & ETHANE TREAT) 
+( 11 ) -  U108(TRAIN1&2&5) / 144 (SULFUR RECOVERY) 
+( 16 ) -  U113-1 / 114-1 / 115-1 (CAUSTIC REG) 
+( 18 ) -  U109 / 122 (SOUR WATER STRIPER-FUEL GAS) 
+( 19 ) -  U121 / 123 /124 (STEAM GEN.IA/SA-N2) 
+( 20 ) -  U126 / 127 / 128 / 132 ( WATER TREATMENT AREA) 
+( 22 ) -  U129 
+( 24 ) -  U140 / 142 (FLARE & BURNPIT) 
+( 25 ) -  U140 / 141 / 142(FLARE & BLOW DOWN) 
+( 26 ) -  U143 (OFF SPEC.CONDENSATE STG TANK) 
+( 27 ) -  U143 (UG SHOP-CONDENSATE STORAGE EXPORT) 
+( 28 ) -  U145 / 146 (AMINE TANKS & C3 REFG.STG.) 
+( 29 ) -  U131 / 146 (DISEL STG. & CHEM. STG.) 
+( 30 ) -  U147 / 148 
+( 31/32/33 ) -  ADMIN / GUARD / CLINIC  /  WAREHOUSE / WORKSHOP / NICC  /  FIRE FIGHTING STATION  /  U161 / 162 / CB / LAB / ITR0  /  FIRE FIGHTING STATION 
+( 34 ) -  U161 / 162 / CB / LAB / ITR0 
+( 35 ) -  U176 / SS#1 / ITR3 & 4 
+
